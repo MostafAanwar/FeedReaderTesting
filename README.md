@@ -10,4 +10,4 @@ This project is made to test the Feed Reader app using Javascript testing framew
       * Open the folder.
       * Open index.html in your browser.
 2. Online
-      * You can see a live version through this [Link](http://github.com)
+      * You can see a live version through this [Link](https://mostafaanwar.github.io/FeedReaderTesting/)

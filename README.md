@@ -6,6 +6,7 @@ This project is made to test the Feed Reader app using Javascript testing framew
 
 ## How to run this project
 1. Locally
+      * Download the repo.
       * Click "Clone in Desktop" / "Download ZIP".
       * Open the folder.
       * Open index.html in your browser.
